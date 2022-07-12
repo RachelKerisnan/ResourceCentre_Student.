@@ -149,6 +149,7 @@ public class ResourceCentre {
 		String output1 = "";
 		// write your code here
 		
+		//nice job rachel
 
 		for (int i = 0; i < chromebookList.size(); i++) {
 
